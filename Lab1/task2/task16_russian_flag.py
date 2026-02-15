@@ -16,4 +16,4 @@ def russian_flag_sort(colors):
     return colors
 
 arr = ["синий", "красный", "белый", "красный", "белый", "синий"]
-print(russian_flag_sort(arr))
+# print(russian_flag_sort(arr))
