@@ -12,4 +12,4 @@ def after_first_max(arr):
             break
     return arr[first_idx+1:]
 
-print(after_first_max([3,5,1,5,2]))
+# print(after_first_max([3,5,1,5,2]))
