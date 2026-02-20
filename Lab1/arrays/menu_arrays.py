@@ -31,7 +31,7 @@ def main():
     elif ch == '5':
         print(count_greater_than_sum_prev(arr))
     else:
-        print("Неверный выбор")
+        print("Неверный выбор ")
 
 if __name__ == '__main__':
     main()
