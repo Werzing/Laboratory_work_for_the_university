@@ -11,4 +11,4 @@ def before_last_min(arr):
             last_idx = i
     return arr[:last_idx]
 
-# print(before_last_min([3,1,4,1,5]))
+print(before_last_min([3,1,4,1,5]))

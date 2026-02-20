@@ -2,7 +2,6 @@ def sort_strings_by_length():
     lines = []
     while True:
         s = input("Введите строку (Enter для завершения): ")
-
         if s == "":
             break
         lines.append(s)

@@ -6,4 +6,4 @@ def count_even_length_words(s):
             count = count + 1
     return count
 
-# print(count_even_length_words("a bb ccc dddd"))
+print(count_even_length_words("a bb ccc dddd"))

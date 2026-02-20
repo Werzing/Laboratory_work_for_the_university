@@ -1,6 +1,6 @@
 def max_prime_divisor(n):
     if n < 2:
-        return None
+        return 0
     max_d = 1
     for i in range(2, n+1):
         if n % i == 0:

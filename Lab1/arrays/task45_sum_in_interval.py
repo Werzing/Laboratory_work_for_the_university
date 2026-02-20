@@ -5,4 +5,4 @@ def sum_in_interval(arr, a, b):
             s += x
     return s
 
-# print(sum_in_interval([1,5,3,8,2], 2, 5))
+print(sum_in_interval([1,5,3,8,2], 2, 5))

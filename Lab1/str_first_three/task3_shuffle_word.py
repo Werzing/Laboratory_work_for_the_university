@@ -7,5 +7,4 @@ def shuffle_words(s):
     for w in words:
         res = res + w + " "
     return res.strip()
-
-# print(shuffle_words("яблоко груша апельсин банан"))
+print(shuffle_words("яблоко груша апельсин банан"))
